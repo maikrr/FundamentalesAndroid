@@ -34,6 +34,9 @@
             		android:configChanges="keyboard|keyboardHidden|orientation"/>  
 		<activity 	android:label="Teclas Test" 
 		    		android:name=".TeclasTest"
-		    		android:configChanges="keyboard|keyboardHidden|orientation" />                  
+		    		android:configChanges="keyboard|keyboardHidden|orientation" />   
+		<activity 	android:label="Acelerometro Test"
+		    		android:name=".AcelerometroTest"
+		    		android:configChanges="keyboard|keyboardHidden|orientation"/>               
     </application>
 </manifest>
